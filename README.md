@@ -73,7 +73,20 @@ node index.js
 1. Open your browser and navigate to the frontend development server (e.g., [http://localhost:5173](http://localhost:5173)).
 2. Fill in the reservation form with the required details.
 3. Submit the form to book your reservation.
+
+### Home Page
+![Home Page](./public/Home_Page.png)
+
+### Reservation Form
+![Reservation Form](./public/Reservation_Form.png)
+
+### Confirmation Message
+![Confirmation](./public/Confirmation_Page.png)
+
+
+
 ## Project Structure
+
 ```
 CAFFEE/
 │

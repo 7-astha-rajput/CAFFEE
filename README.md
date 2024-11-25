@@ -75,13 +75,13 @@ node index.js
 3. Submit the form to book your reservation.
 
 ### Home Page
-![Home Page](./public/Home_Page.png)
+![Home Page](./frontend/public/Home_Page.png)
 
 ### Reservation Form
-![Reservation Form](./public/Reservation_Form.png)
+![Reservation Form](./frontend/public/Reservation_Form.png)
 
 ### Confirmation Message
-![Confirmation](./public/Confirmation_Page.png)
+![Confirmation](./frontend/public/Confirmation_Page.png)
 
 
 
